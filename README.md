@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I’m Ricky Wong. I'm a computer science and data science student at Purdue! 
+
+I like building things.
+I’m into ML and full-stack.
+I like messy data. 
+I also build guitars.
+
+
 <!--
 **rickywong04/rickywong04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
