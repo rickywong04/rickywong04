@@ -7,6 +7,8 @@ I’m into ML and full-stack.
 I like messy data. 
 I also build guitars.
 
+Check out my website: [rickywong.dev](https://www.rickywong.dev/)
+
 
 <!--
 **rickywong04/rickywong04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
